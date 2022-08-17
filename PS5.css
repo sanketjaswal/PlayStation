@@ -1,0 +1,30 @@
+#navbar
+{
+    /* min-height: 100px; */
+    background-color: rgba(0, 0, 0, 0.575) ;
+}
+
+#heroic-page
+{
+    background-image: url(photoes/143354-games-feature-sony-playstation-5-release-date-rumours_tp32.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+#tusu
+{
+    color: rgb(1, 95, 236);
+    text-align: center;
+}
+
+.bb
+{
+    text-align: justify;
+
+}
+
+.footer
+{
+    background-color: rgb(49, 49, 56);
+}

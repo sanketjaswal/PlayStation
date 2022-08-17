@@ -1,0 +1,66 @@
+#navbar
+{
+    /* min-height: 100px; */
+    background-color: rgba(0, 0, 0, 0.575) ;
+}
+
+#heroic-page
+{
+    background-image: url(god2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.slide-images
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+}
+
+#img1
+{
+    background-image: url(cy.jpg);    
+}
+
+#img2
+{
+    background-image: url(thumb-1920-749807.png);
+}
+
+#img3
+{
+    background-image: url(capture.webp);
+}
+
+#img4
+{
+    background-image: url(1-14560_spider-man-advanced-suit-spiderman-ps4-wallpaper-4k.jpg);
+}
+
+.ps
+{
+    /* display: block; */
+    background-color: white;
+}
+
+/* .timeline_tags
+{
+    /* min-height: calc(100vh/5.5); */
+    /* min-height: 18%; */
+    /* border-radius: 30px; 
+} */
+
+/* #feedback-email
+{
+    float: right;
+    margin-right: 2px;
+} */
+
+
+.footer
+{
+    background-color: rgb(49, 49, 56);
+}
